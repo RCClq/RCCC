@@ -1,0 +1,49 @@
+{
+    "sources_list": [
+        {
+            "id": 1,
+            "title": "Avito.ru",
+            "commission": "15"
+        },                                                                                                                                            
+        {
+            "id": 1825,
+            "title": "Tvil.ru",
+            "commission":"15"
+        },                 
+        {
+            "id": 5,
+            "title": "Ostrovok.ru",
+            "commission":"15"
+        },                 
+        {
+            "id": 6,
+            "title": "Sutochno.ru",
+            "commission":"25"
+        },                 
+        {
+            "id": 11,
+            "title": "Kvartirka.com",
+            "commission":"15"
+        },                
+        {
+            "id": 21,
+            "title": "Свой сайт",
+            "commission":"5"
+        },   
+        {
+            "id": 1726,
+            "title": "tvil.ru",
+            "commission":"15"
+        },   
+        {
+            "id": 4482,
+            "title": "nochleg24.com",
+            "commission":"10"
+        },   
+        {     
+            "id": 4412,
+            "title": "flatsharing.biz",
+            "commission":"15"
+        }
+    ]
+}
